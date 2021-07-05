@@ -34,7 +34,7 @@
 | 第02篇 | [待归档...]() | [待归档...]()
 
 
-> Tips：更多小而美的技术专栏，可前往我的站点查看：[YourBatman的技术专栏](https://yourbatman.cn/columns/)
+> Tips：更多小而美的技术专栏，可前往我的站点查看：[YourBatman的技术专栏](https://yourbatman.cn/columns/)，或者前往 [专栏大本营](https://github.com/yourbatman/tech-column-learning)
 
 ---
 
