@@ -15,32 +15,27 @@
 <br/>
 
 <div align="center">
-<a href="https://github.com/fuzhengwei/CodeGuide"><img src="https://badgen.net/github/stars/fuzhengwei/CodeGuide?icon=github&color=4ab8a1"></a>
-<a href="https://github.com/fuzhengwei/CodeGuide"><img src="https://badgen.net/github/forks/fuzhengwei/CodeGuide?icon=github&color=4ab8a1"></a>
-<a href="https://bugstack.cn" target="_blank"><img src="https://bugstack.cn/assets/images/onlinebook.svg"></a>
-<a href="https://bugstack.cn/assets/images/qrcode.png?x-oss-process=style/may"><img src="https://itedus.cn/_media/wxbugstack.svg"></a>
-</div>
-
-<br/>
-<div align="center">
-    <a href="https://bugstack.cn" style="text-decoration:none"><img src="https://github.com/fuzhengwei/small-spring/blob/main/docs/_media/pdf.png?raw=true" width="512px"></a>
+<a href="https://github.com/yourbatman/tech-column-learning"><img src="https://badgen.net/github/stars/yourbatman/tech-column-learning?icon=github&color=4ab8a1"></a>
+<a href="https://github.com/yourbatman/tech-column-learning"><img src="https://badgen.net/github/forks/yourbatman/tech-column-learning?icon=github&color=4ab8a1"></a>
+<a href="https://yourbatman.cn/columns" target="_blank"><img src="https://bugstack.cn/assets/images/onlinebook.svg"></a>
+<a href="https://bugstack.cn/assets/images/qrcode.png?x-oss-process=style/may"><img src="https://cdn.jsdelivr.net/gh/yourbatman/cdn/blog/books/svg/wechat_public_BATutopia.svg"></a>
 </div>
 
 ---
 本仓库以Java EE为主题，了解Java EE的发展历程，再到现在的Jakarta EE进行整体把握。它能增加一个Java程序员的行业common sense，丰富茶余饭后的谈资。
 
-当然，作为一个技术人员最重要的还是学习Java EE那几十种技术的学习。比如Servlet、JSP、EL表达式、JSTL、JPA、Security、Management、WebSocket...等等。
+当然，作为一个技术人员最重要的还是学习Java EE那几十种技术，如Servlet、JSP、EL表达式、JSTL、JPA、Security、Management、WebSocket...**全都在射程范围内**。
 
-虽然Java EE的技术很多现在已不流行，但不少依旧还是主流（比如Servlet技术、WebSocket技术），所以希望通过本专栏能帮助到你提升对Java EE技术体系的整体认知，不要再迷迷糊糊。
+虽然Java EE的技术很多现在已不流行，但仍旧有些还是主流（如Servlet技术、WebSocket技术），所以希望通过本专栏能帮助到你提升对Java EE技术体系的整体认知，不要再迷迷糊糊。
 
 ## 文章目录&源码
 | 章节 | 文章链接                                     | GitHub                                                       |
 | :--: | --------------------------------------------- | ------------------------------------------------------------ |
-| [x]第01篇 | [从Java EE到Jakarta EE，企业版Java的发展历程](https://yourbatman.cn/x2y/3839cb84.html) | [待归档...]()
-| [ ]第02篇 | [待归档...]() | [待归档...]()
+| [x] 第01篇 | [从Java EE到Jakarta EE，企业版Java的发展历程](https://yourbatman.cn/x2y/3839cb84.html) | [BATutopia-java-ee](https://github.com/yourbatman/BATutopia-java-ee)
+| [ ] 第02篇 | [待归档...]() | [待归档...]()
 
 
-Tips：更多小而美的技术专栏，可前往我的站点：[YourBatman的技术专栏](https://yourbatman.cn/columns/)
+> Tips：更多小而美的技术专栏，可前往我的站点查看：[YourBatman的技术专栏](https://yourbatman.cn/columns/)
 
 ---
 
