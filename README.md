@@ -30,7 +30,7 @@
 
 | 序号 | 文章                                     | 公众号阅读 | PC阅读 | GitHub                                                       |
 | :--: | --------------------------------------------- | ------------------------------------------------------------  | ------------------------------------------------------------  | ------------------------------------------------------------ |
-| 第01篇 | 从Java EE到Jakarta EE，企业版Java的发展历程 | [公众号阅读](https://mp.weixin.qq.com/s/qOiob5l3mvSJyCIpii2EEQ) | [PC阅读](https://yourbatman.cn/x2y/3839cb84.html) | [BATutopia-java-ee](https://github.com/yourbatman/BATutopia-java-ee)
+| 第01篇 | [从Java EE到Jakarta EE，企业版Java的发展历程]() | [公众号阅读](https://mp.weixin.qq.com/s/qOiob5l3mvSJyCIpii2EEQ) | [PC阅读](https://yourbatman.cn/x2y/3839cb84.html) | [BATutopia-java-ee](https://github.com/yourbatman/BATutopia-java-ee)
 | 第02篇 | 待归档... | 待归档... | 待归档... | 待归档... |
 
 
