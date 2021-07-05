@@ -28,10 +28,10 @@
 虽然Java EE的技术很多现在已不流行，但仍旧有些还是主流（如Servlet技术、WebSocket技术），所以希望通过本专栏能帮助到你提升对Java EE技术体系的整体认知，不要再迷迷糊糊。
 
 ## 文章目录&源码
-| 章节 | 文章链接                                     | GitHub                                                       |
+| 序号 | 文章链接                                     | GitHub                                                       |
 | :--: | --------------------------------------------- | ------------------------------------------------------------ |
-| [x] 第01篇 | [从Java EE到Jakarta EE，企业版Java的发展历程](https://yourbatman.cn/x2y/3839cb84.html) | [BATutopia-java-ee](https://github.com/yourbatman/BATutopia-java-ee)
-| [ ] 第02篇 | [待归档...]() | [待归档...]()
+| 第01篇 | [从Java EE到Jakarta EE，企业版Java的发展历程](https://yourbatman.cn/x2y/3839cb84.html) | [BATutopia-java-ee](https://github.com/yourbatman/BATutopia-java-ee)
+| 第02篇 | [待归档...]() | [待归档...]()
 
 
 > Tips：更多小而美的技术专栏，可前往我的站点查看：[YourBatman的技术专栏](https://yourbatman.cn/columns/)
