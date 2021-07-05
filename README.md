@@ -20,6 +20,7 @@
 <a href="https://yourbatman.cn/columns" target="_blank"><img src="https://bugstack.cn/assets/images/onlinebook.svg"></a>
 <a href="https://bugstack.cn/assets/images/qrcode.png?x-oss-process=style/may"><img src="https://cdn.jsdelivr.net/gh/yourbatman/cdn/blog/svg/wechat_public_BATutopia.svg"></a>
 </div>
+<br/>
 
 本仓库以Java EE为主题，了解Java EE的发展历程，再到现在的Jakarta EE进行整体把握。它能增加一个Java程序员的行业common sense，丰富茶余饭后的谈资。
 
