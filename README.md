@@ -15,13 +15,12 @@
 <br/>
 
 <div align="center">
-<a href="https://github.com/yourbatman/tech-column-learning"><img src="https://badgen.net/github/stars/yourbatman/tech-column-learning?icon=github&color=4ab8a1"></a>
-<a href="https://github.com/yourbatman/tech-column-learning"><img src="https://badgen.net/github/forks/yourbatman/tech-column-learning?icon=github&color=4ab8a1"></a>
+<a href="https://github.com/yourbatman/tech-column-learning"><img src="https://badgen.net/github/stars/spring-projects/spring-framework?icon=github&color=4ab8a1"></a>
+<a href="https://github.com/yourbatman/tech-column-learning"><img src="https://badgen.net/github/forks/spring-projects/spring-framework?icon=github&color=4ab8a1"></a>
 <a href="https://yourbatman.cn/columns" target="_blank"><img src="https://bugstack.cn/assets/images/onlinebook.svg"></a>
-<a href="https://bugstack.cn/assets/images/qrcode.png?x-oss-process=style/may"><img src="https://cdn.jsdelivr.net/gh/yourbatman/cdn/blog/books/svg/wechat_public_BATutopia.svg"></a>
+<a href="https://bugstack.cn/assets/images/qrcode.png?x-oss-process=style/may"><img src="https://cdn.jsdelivr.net/gh/yourbatman/cdn/blog/svg/wechat_public_BATutopia.svg"></a>
 </div>
 
----
 本仓库以Java EE为主题，了解Java EE的发展历程，再到现在的Jakarta EE进行整体把握。它能增加一个Java程序员的行业common sense，丰富茶余饭后的谈资。
 
 当然，作为一个技术人员最重要的还是学习Java EE那几十种技术，如Servlet、JSP、EL表达式、JSTL、JPA、Security、Management、WebSocket...**全都在射程范围内**。
