@@ -29,6 +29,10 @@
 虽然Java EE的技术很多现在已不流行，但仍旧有些还是主流（如Servlet技术、WebSocket技术），所以希望通过本专栏能帮助到你提升对Java EE技术体系的整体认知，不要再迷迷糊糊。
 
 ## 文章目录&源码
+在开始本专栏之前，你需要知道什么是JSR，什么是JCP？最好能够阅读过它！
+
+当然喽，我是个好博主，各个版本的JSR规范文件，我都帮你准备好了，直接用吧：[JSR-JCP](https://github.com/yourbatman/JSR-JCP)
+
 | 序号 | 文章链接                                     | GitHub                                                       |
 | :--: | --------------------------------------------- | ------------------------------------------------------------ |
 | 第01篇 | [从Java EE到Jakarta EE，企业版Java的发展历程](https://yourbatman.cn/x2y/3839cb84.html) | [BATutopia-java-ee](https://github.com/yourbatman/BATutopia-java-ee)
