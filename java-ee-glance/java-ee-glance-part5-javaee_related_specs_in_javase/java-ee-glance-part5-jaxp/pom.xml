@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>java-ee-glance-part5-javaee_related_specs_in_javase</artifactId>
+        <groupId>cn.yourbatman</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>java-ee-glance-part5-jaxp</artifactId>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+    <dependencies>
+        <!-- Java XML程序设计的应用程序接口之一，它提供解析和验证XML文档的能力。提供Dom接口(DocumentBuilder)、SAX接口(SAXParser)  -->
+        <!-- 命名空间为：javax.xml.parsers -->
+        <!-- 无需额外导包，自带在rt.jar的javax包内 -->
+        <!--<dependency>-->
+        <!--    <groupId>javax.xml.parsers</groupId>-->
+        <!--    <artifactId>jaxp-api</artifactId>-->
+        <!--    <version>1.4.5</version>-->
+        <!--</dependency>-->
+    </dependencies>
+</project>

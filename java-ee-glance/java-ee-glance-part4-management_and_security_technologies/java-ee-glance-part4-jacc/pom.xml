@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>java-ee-glance-part4-management_and_security_technologies</artifactId>
+        <groupId>cn.yourbatman</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>java-ee-glance-part4-jacc</artifactId>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+    <dependencies>
+        <!-- 在J2EE应用服务器和特定的授权认证服务器之间定义了一个连接的协约，以便将各种授权认证服务器插入到J2EE产品中去 -->
+        <!-- （JAAS包含在 Java SE中，这是关于代码级安全性(你信任的代码)，JACC是Java EE用户/容器级别的安全性） -->
+        <!-- 命名空间为：javax.security.jacc -->
+        <!--说明：Spirng Boot管理的包中并不包含此（话外音：该jar已基本无人使用），所以引入时必须有version值-->
+        <!--<dependency>-->
+        <!--    <groupId>javax.security.jacc</groupId>-->
+        <!--    <artifactId>javax.security.jacc-api</artifactId>-->
+        <!--    <version>1.6</version>-->
+        <!--</dependency>-->
+        <dependency>
+            <groupId>jakarta.security.jacc</groupId>
+            <artifactId>jakarta.security.jacc-api</artifactId>
+            <version>1.6.1</version>
+        </dependency>
+    </dependencies>
+</project>

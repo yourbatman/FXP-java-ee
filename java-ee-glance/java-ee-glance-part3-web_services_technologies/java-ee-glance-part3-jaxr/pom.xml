@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>java-ee-glance-part3-web_services_technologies</artifactId>
+        <groupId>cn.yourbatman</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>java-ee-glance-part3-jaxr</artifactId>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+    <dependencies>
+        <!-- 提供了与【多种类型注册】服务进行交互的API 一般来说，注册服务总是以Web Services的形式运行的。对开发者来讲，一般都用不着-->
+        <!-- 命名空间为：javax.xml.registry -->
+        <!--说明：Spirng Boot管理的包中并不包含此（话外音：该jar已基本无人使用），所以引入时必须有version值-->
+        <!--<dependency>-->
+        <!--    <groupId>javax.xml.registry</groupId>-->
+        <!--    <artifactId>javax.xml.registry-api</artifactId>-->
+        <!--    <version>1.0.8</version>-->
+        <!--</dependency>-->
+        <dependency>
+            <groupId>jakarta.xml.registry</groupId>
+            <artifactId>jakarta.xml.registry-api</artifactId>
+            <version>1.0.10</version>
+        </dependency>
+    </dependencies>
+</project>

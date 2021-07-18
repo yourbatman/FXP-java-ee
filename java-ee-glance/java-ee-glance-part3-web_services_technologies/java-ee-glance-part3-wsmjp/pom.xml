@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>java-ee-glance-part3-web_services_technologies</artifactId>
+        <groupId>cn.yourbatman</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>java-ee-glance-part3-wsmjp</artifactId>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+    <dependencies>
+        <!-- 定义的标准注解用以发布WebService服务，简化开发。如@WebService @SOAPBinding等 -->
+        <!-- 命名空间为：javax.jws -->
+        <!-- 无需额外导包，自带在rt.jar的javax包内 -->
+        <!--<dependency>-->
+        <!--    <groupId>javax.jws</groupId>-->
+        <!--    <artifactId>javax.jws-api</artifactId>-->
+        <!--    <version>1.1</version>-->
+        <!--</dependency>-->
+        <!--<dependency>-->
+        <!--    <groupId>jakarta.jws</groupId>-->
+        <!--    <artifactId>jakarta.jws-api</artifactId>-->
+        <!--    <version>2.1.0</version>-->
+        <!--</dependency>-->
+    </dependencies>
+</project>

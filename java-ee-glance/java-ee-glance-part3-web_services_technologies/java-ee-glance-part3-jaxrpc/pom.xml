@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>java-ee-glance-part3-web_services_technologies</artifactId>
+        <groupId>cn.yourbatman</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>java-ee-glance-part3-jaxrpc</artifactId>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+    <dependencies>
+        <!-- Java Web服务开发包(WSDP)的应用程序接口(API)，实现框架有axis和cxf -->
+        <!-- 命名空间为：javax.xml.rpc -->
+        <!--说明：Spirng Boot管理的包中并不包含此（话外音：该jar已基本无人使用），所以引入时必须有version值-->
+        <dependency>
+            <groupId>jakarta.xml.rpc</groupId>
+            <artifactId>jakarta.xml.rpc-api</artifactId>
+            <version>1.1.4</version>
+        </dependency>
+        <!--</dependency>-->
+        <!--<dependency>-->
+        <!--    <groupId>org.apache.cxf</groupId>-->
+        <!--    <artifactId>cxf-core</artifactId>-->
+        <!--    <version>3.4.4</version>-->
+        <!--</dependency>-->
+    </dependencies>
+</project>
