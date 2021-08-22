@@ -19,12 +19,16 @@
     <dependencies>
         <!-- 依托于JSP而存在的一种表达式语言，当然也可以作为工具独立存在（在jsp里面由jsp包对它提供el+jsp页面的整合） -->
         <!-- 命名空间为：javax.el -->
-        <!--发现没，Spring Boot依赖里并不包含它，是不是感觉到它没那么重要了，被抛弃了-->
+        <!--发现没，Spring Boot依赖里并不包含它，是不是感觉到它没那么重要了，被抛弃了 下面的才是正宫-->
+        <!--<dependency>-->
+        <!--    <groupId>jakarta.el</groupId>-->
+        <!--    <artifactId>jakarta.el-api</artifactId>-->
+        <!--    <version>3.0.3</version>-->
+        <!--    <scope>provided</scope>-->
+        <!--</dependency>-->
         <dependency>
-            <groupId>jakarta.el</groupId>
-            <artifactId>jakarta.el-api</artifactId>
-            <version>3.0.3</version>
-            <scope>provided</scope>
+            <groupId>org.apache.tomcat.embed</groupId>
+            <artifactId>tomcat-embed-el</artifactId>
         </dependency>
     </dependencies>
 </project>
