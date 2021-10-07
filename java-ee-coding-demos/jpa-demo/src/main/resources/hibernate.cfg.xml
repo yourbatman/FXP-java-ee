@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <!-- 配置数据库连接 connection -->
+    <session-factory>
+        <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/demo</property>
+        <property name="hibernate.connection.username">root</property>
+        <property name="hibernate.connection.password">root</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+        <!-- 连接池 hikaricp 该provider由hikari提供-->
+        <property name="hibernate.connection.provider_class">com.zaxxer.hikari.hibernate.HikariConnectionProvider</property>
+
+        <!-- 格式化输出生成的SQL语句 -->
+        <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.format_sql">true</property>
+
+        <!-- hibernate根据映射关系自动建表
+            默认: 不会创建表
+            create: 没有表就创建，有表就删除重建。
+            create-drop: 没有表就创建，有表就删除重建，使用完自动删表。
+            update: 没有表就创建表，否则使用现有的表。
+            validate: 不会创建表
+         -->
+        <property name="hibernate.hbm2ddl.auto">validate</property>
+    </session-factory>
+</hibernate-configuration>
