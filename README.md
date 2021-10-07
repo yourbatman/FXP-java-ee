@@ -28,21 +28,21 @@
 
 当然喽，我是个好博主，各个版本的JSR规范文件，我都帮你准备好了，直接享用吧：[JSR-JCP](https://github.com/yourbatman/JSR-JCP)
 
-| 序号 | 文章                                     | 公众号阅读 | PC阅读 | GitHub源代码                                                     |
+| 序号 | 文章                                     | 公众号阅读 | PC阅读 | 源代码                                                     |
 | :--: | --------------------------------------------- | ------------------------------------------------------------  | ------------------------------------------------------------  | ------------------------------------------------------------ |
-| 第01篇 | **【方向盘】从Java EE到Jakarta EE，企业版Java的发展历程** | [公众号阅读](https://mp.weixin.qq.com/s/qOiob5l3mvSJyCIpii2EEQ) | [PC阅读](https://yourbatman.cn/x2y/3839cb84.html) | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
-| 第02篇 | **【方向盘】阿里巴巴入选的JCP最高执行委员会，何方神圣？** | [公众号阅读](https://mp.weixin.qq.com/s/F4y3GIVSFAVj4EmjAkJ4FQ) | [PC阅读](https://yourbatman.cn/x2y/eeecd945.html) | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
-| 第03篇 | **【方向盘】什么是Java EE？** | [公众号阅读](https://mp.weixin.qq.com/s/F2Izcrw-7O3si1g-V7lLyw) | [PC阅读](https://yourbatman.cn/x2y/9f826227.html) | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
-| 第04篇 | **【方向盘】什么是Java SE？生产环境装JDK还是JRE？** | [公众号阅读](https://mp.weixin.qq.com/s/qrbTbKZZOaQVESlIrAQX3w) | 待归档... | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
-| 第05篇 | **【方向盘】Java EE几十种技术，“活着的”还剩几何（Web应用技术篇）** | [公众号阅读](https://mp.weixin.qq.com/s/Qt3xIQMmdjv5iBBEjfkPxA) | 待归档... | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
-| 第06篇 | **【方向盘】Java EE几十种技术，“活着的”还剩几何（企业应用技术篇）** | [公众号阅读](https://mp.weixin.qq.com/s/PEHLEVdyZpLhoah9DzL0xQ) | 待归档... | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
-| 第07篇 | **【方向盘】Java EE几十种技术，“活着的”还剩几何（服务/安全/Java SE篇）** | [公众号阅读](https://mp.weixin.qq.com/s/XDtbwj8BgxITw97sbaGfIA) | 待归档... | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
-| 第08篇 | **【方向盘】版本历史&代码示例之：Servelt、JSP、EL表达式** | [公众号阅读](https://mp.weixin.qq.com/s/j14hlm5qk2wf0Pi3fNUvFA) | 待归档... | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
-| 第09篇 | **【方向盘】版本历史&代码示例之：WebSocket、JSTL** | [公众号阅读](https://mp.weixin.qq.com/s/UV3WAxXl7aGDZbMLXkHHhA) | 待归档... | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
-| 第10篇 | 待归档... | 待归档... | 待归档... | 待归档... |
+| 01篇 | 【方向盘】从Java EE到Jakarta EE，企业版Java的发展历程 | [公众号阅读](https://mp.weixin.qq.com/s/qOiob5l3mvSJyCIpii2EEQ) | [PC阅读](https://yourbatman.cn/x2y/3839cb84.html) | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
+| 02篇 | 【方向盘】阿里巴巴入选的JCP最高执行委员会，何方神圣？ | [公众号阅读](https://mp.weixin.qq.com/s/F4y3GIVSFAVj4EmjAkJ4FQ) | [PC阅读](https://yourbatman.cn/x2y/eeecd945.html) | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
+| 03篇 | 【方向盘】什么是Java EE？ | [公众号阅读](https://mp.weixin.qq.com/s/F2Izcrw-7O3si1g-V7lLyw) | [PC阅读](https://yourbatman.cn/x2y/9f826227.html) | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
+| 04篇 | 【方向盘】什么是Java SE？生产环境装JDK还是JRE？ | [公众号阅读](https://mp.weixin.qq.com/s/qrbTbKZZOaQVESlIrAQX3w) | 待归档... | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
+| 05篇 | 【方向盘】Java EE几十种技术，“活着的”还剩几何（Web应用技术篇） | [公众号阅读](https://mp.weixin.qq.com/s/Qt3xIQMmdjv5iBBEjfkPxA) | 待归档... | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
+| 06篇 | 【方向盘】Java EE几十种技术，“活着的”还剩几何（企业应用技术篇） | [公众号阅读](https://mp.weixin.qq.com/s/PEHLEVdyZpLhoah9DzL0xQ) | 待归档... | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
+| 07篇 | 【方向盘】Java EE几十种技术，“活着的”还剩几何（服务/安全/Java SE篇） | [公众号阅读](https://mp.weixin.qq.com/s/XDtbwj8BgxITw97sbaGfIA) | 待归档... | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
+| 08篇 | 【方向盘】版本历史&代码示例之：Servelt、JSP、EL表达式 | [公众号阅读](https://mp.weixin.qq.com/s/j14hlm5qk2wf0Pi3fNUvFA) | 待归档... | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
+| 09篇 | 【方向盘】版本历史&代码示例之：WebSocket、JSTL | [公众号阅读](https://mp.weixin.qq.com/s/UV3WAxXl7aGDZbMLXkHHhA) | 待归档... | [FXP-java-ee](https://github.com/yourbatman/FXP-java-ee)
+| 10篇 | 待归档... | 待归档... | 待归档... | 待归档... |
 
 
-> Tips：更多小而美的技术专栏，可前往我的站点查看：[方向盘(YourBatman、方哥)的原创技术专栏](https://yourbatman.cn/columns/)，或者前往 [Github专栏大本营](https://github.com/yourbatman/tech-column-learning)
+> Tips：更多小而美的技术专栏，可前往我的站点查看：[方向盘(YourBatman、方哥)的原创技术专栏](https://yourbatman.cn/columns/)，或者前往 [GitHub专栏大本营](https://github.com/yourbatman/tech-column-learning)
 
 ---
 
