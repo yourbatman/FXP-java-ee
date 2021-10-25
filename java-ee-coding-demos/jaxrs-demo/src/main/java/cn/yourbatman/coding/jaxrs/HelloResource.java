@@ -10,12 +10,13 @@ import javax.ws.rs.core.MediaType;
  *
  * @author YourBatman. <a href=mailto:yourbatman@aliyun.com>Send email to me</a>
  * @site https://yourbatman.cn
- * @date 2021/9/13 06:12
+ * @date 2021/10/24 17:24
  * @since 0.0.1
  */
 @Path("/hello")
 public class HelloResource {
 
+    @Path("/demo")
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String demo() {

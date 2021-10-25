@@ -7,7 +7,7 @@ import org.glassfish.jersey.server.ResourceConfig;
  *
  * @author YourBatman. <a href=mailto:yourbatman@aliyun.com>Send email to me</a>
  * @site https://yourbatman.cn
- * @date 2021/9/13 06:29
+ * @date 2021/10/24 17:22
  * @since 0.0.1
  */
 public class MyResourceConfig extends ResourceConfig {

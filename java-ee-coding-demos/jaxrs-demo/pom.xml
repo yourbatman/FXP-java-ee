@@ -17,6 +17,13 @@
     </properties>
 
     <dependencies>
+        <!-- API规范 -->
+        <!--<dependency>-->
+        <!--    <groupId>jakarta.ws.rs</groupId>-->
+        <!--    <artifactId>jakarta.ws.rs-api</artifactId>-->
+        <!--    <version>2.1.6</version>-->
+        <!--</dependency>-->
+
         <dependency>
             <groupId>org.glassfish.jersey.core</groupId>
             <artifactId>jersey-server</artifactId>
@@ -26,5 +33,22 @@
             <groupId>org.glassfish.jersey.containers</groupId>
             <artifactId>jersey-container-servlet</artifactId>
         </dependency>
+        <!-- 若遇上java.lang.IllegalStateException: InjectionManagerFactory not found.异常，导入此包 -->
+        <dependency>
+            <groupId>org.glassfish.jersey.inject</groupId>
+            <artifactId>jersey-hk2</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>javax.servlet-api</artifactId>
+            <scope>provided</scope>
+        </dependency>
+
+
+        <!-- Client无需单独打包，因为jersey-server里已有。只有单独使用Jersey Client时才需导入 -->
+        <!--<dependency>-->
+        <!--    <groupId>org.glassfish.jersey.core</groupId>-->
+        <!--    <artifactId>jersey-client</artifactId>-->
+        <!--</dependency>-->
     </dependencies>
 </project>
